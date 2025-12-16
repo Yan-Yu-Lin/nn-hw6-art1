@@ -26,4 +26,6 @@ wheels/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Private
 HW6_Report.md
